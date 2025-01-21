@@ -1,0 +1,15 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node start --debug"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "module": "a1.js",
+  "directories": {
+    "lib": "src"
+  }
+}
